@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NIFTY FIFTY Forecasting Bot",
+  "description": "A time series forecasting application that uses Gemini to predict the future values of the NIFTY FIFTY stock index based on historical data.",
+  "requestFramePermissions": []
+}
